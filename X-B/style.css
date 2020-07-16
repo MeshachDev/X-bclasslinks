@@ -87,6 +87,6 @@ animation: helloo 2s 1;
 .bottom
 {
     height:auto;
-    width: 100%;
+    width: auto;
     background-color:black;
 }
