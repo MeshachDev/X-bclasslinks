@@ -59,7 +59,7 @@ animation: helloo 2s 1;
 }
 .md
 {
-    color:rgb(166, 251, 132);
+    color:rgb(255, 255, 255);
 }
 @keyframes helloo
 {
@@ -83,4 +83,10 @@ animation: helloo 2s 1;
     letter-spacing: 20px;
     margin-left:150px;
 }
+}
+.bottom
+{
+    height:auto;
+    width: 100%;
+    background-color:black;
 }
